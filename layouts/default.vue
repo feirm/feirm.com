@@ -1,5 +1,8 @@
 <template>
   <div>
+    <!-- Banner component -->
+    <Banner />
+
     <!-- Navigation component -->
     <Navigation />
 
@@ -9,10 +12,12 @@
 </template>
 
 <script>
+import Banner from "@/components/Banner";
 import Navigation from "@/components/Navigation";
 
 export default {
   components: {
+    Banner,
     Navigation
   }
 }
