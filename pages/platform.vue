@@ -4,8 +4,11 @@
     <div class="hero is-dark">
       <div class="hero-body">
         <div class="container has-text-weight-light">
-          <div class="columns is-centered">
-            <div class="column is-offset-1 is-4">
+          <div class="columns is-centered is-vcentered">
+            <div class="column is-4 is-offset-1">
+                <img src="@/assets/platform/marketplace-wallet-combined.png" width="400px">
+            </div>
+            <div class="column is-4">
               <h2 class="subtitle has-text-weight-light">
                 Introducing the
                 <span class="has-text-warning">Feirm Platform</span>.
@@ -17,6 +20,7 @@
                 <br />
                 Non-custodial.
               </h1>
+              <a href="https://app.feirm.com" class="button is-warning">Visit the Feirm Platform</a>
             </div>
           </div>
         </div>
@@ -97,18 +101,6 @@
                   require a unique username, password and PIN to create an
                   account. All of your sensitive information is encrypted and
                   accessible by you, and only you.
-                </p>
-              </div>
-            </div>
-
-            <div class="column is-3 has-text-weight-light">
-              <div class="box non-custodial">
-                <h2 class="subtitle">Readily available</h2>
-                <p>
-                  Feirm does not rely on mobile application stores for
-                  distribution of the platform application and updates. Instead,
-                  we make use of Progressive Web App (PWA) technology to install
-                  the application directly from your browser.
                 </p>
               </div>
             </div>
