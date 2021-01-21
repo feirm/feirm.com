@@ -39,3 +39,12 @@
     </div>
   </nav>
 </template>
+
+<style scoped>
+/* Navigation Bar Branding */
+.branding {
+    background: url("../assets/logos/navbar.png") no-repeat center center;
+    background-size: cover;
+    width: 152px
+}
+</style>
