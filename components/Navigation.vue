@@ -40,6 +40,17 @@
   </nav>
 </template>
 
+<script>
+if (process.client) {
+  const burger = document.getElementById('burger');
+  const navbarMenu = document.getElementById('nav-menu');
+
+  burger.addEventListener('click', () => {
+    navbarMenu.classList.toggle('is-active');
+  });
+}
+</script>
+
 <style scoped>
 /* Navigation Bar Branding */
 .branding {
