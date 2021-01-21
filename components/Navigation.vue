@@ -6,7 +6,7 @@
   >
     <div class="container">
       <div class="navbar-brand">
-        <a href="/" class="branding"></a>
+        <nuxt-link to="/" class="branding"></nuxt-link>
         <a
           role="button"
           class="navbar-burger"
@@ -23,9 +23,7 @@
 
       <div class="navbar-menu" id="nav-menu">
         <div class="navbar-end">
-          <a href="/wallet/" class="navbar-item has-text-weight-light"
-            >Wallet</a
-          >
+          <nuxt-link to="/platform" class="navbar-item has-text-weight-light">Platform</nuxt-link>
           <a
             href="https://docs.feirm.com"
             class="navbar-item has-text-weight-light"
