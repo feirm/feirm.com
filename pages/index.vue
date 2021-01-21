@@ -47,7 +47,7 @@
                   <a
                     target="_blank"
                     href="https://github.com/feirm/feirm"
-                    class="button is-dark has-text-weight-light"
+                    class="button is-warning has-text-weight-light"
                   >
                     Learn More
                   </a>
@@ -101,7 +101,7 @@
                 <a
                   href="https://blockbook.feirm.com"
                   target="_blank"
-                  class="button is-outlined"
+                  class="button is-outlined is-warning"
                   >Visit Block Explorer</a
                 >
               </div>
@@ -119,7 +119,7 @@
                 <a
                   href="https://app.feirm.com"
                   target="_blank"
-                  class="button is-outlined"
+                  class="button is-outlined is-warning"
                   >Open the Feirm App</a
                 >
               </div>
