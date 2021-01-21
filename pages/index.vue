@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container medium">
           <div class="columns is-vcentered is-centered">
-            <div class="column is-5 has-text-left has-text-centered-mobile">
+            <div class="column is-5">
               <h1 class="title is-1 has-text-weight-light">
                 Privacy for everyone.
               </h1>
@@ -14,17 +14,17 @@
                 which is easy to use and private by design.
               </p>
               <div
-                class="buttons is-left is-centered-mobile has-text-weight-light"
+                class="buttons has-text-weight-light"
               >
                 <a
                   target="_blank"
                   href="https://app.feirm.com"
                   class="button is-warning is-medium"
-                  >Get the Feirm app</a
+                  >Visit the Feirm Platform</a
                 >
               </div>
             </div>
-            <div class="column is-2 has-text-centered-mobile">
+            <div class="column is-2 is-offset-1 has-text-centered-mobile">
               <img src="@/assets/wallet/overview.png" width="250px" />
             </div>
           </div>
