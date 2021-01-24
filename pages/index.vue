@@ -260,11 +260,6 @@ export default Vue.extend({
 </script>
 
 <style scoped>
-/* Orange border */
-.has-orange-border-bottom {
-  border-bottom: 10px solid #f69738;
-}
-
 /* Box padding */
 .box {
   padding: 3.75rem;

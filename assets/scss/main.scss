@@ -1,6 +1,11 @@
 // Set your colors
 $warning: #f69738;
 
+/* Orange border */
+.has-orange-border-bottom {
+  border-bottom: 10px solid #f69738;
+}
+
 // Import Bulma and Buefy styles
 @import "~bulma/sass/utilities/_all";
 @import "~bulma";
