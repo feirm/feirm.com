@@ -6,7 +6,10 @@
           <h1 class="title is-4 has-text-weight-light">Products</h1>
           <ul>
             <li>
-              <a target="_blank" href="https://app.feirm.com">Feirm App</a>
+              <a target="_blank" href="https://app.feirm.com">Feirm Platform</a>
+            </li>
+            <li>
+              <a target="_blank" href="https://bootstraps.feirm.com">Bootstraps</a>
             </li>
           </ul>
         </div>
@@ -14,16 +17,22 @@
           <h1 class="title is-4 has-text-weight-light">Feirm</h1>
           <ul>
             <li>
-              <a href="https://docs.feirm.com">Documentation</a>
+              <nuxt-link to="/platform">Platform</nuxt-link>
             </li>
             <li>
-              <a href="/about/">About</a>
+              <nuxt-link to="/blockchain">Blockchain</nuxt-link>
             </li>
+            <!--
             <li>
-              <a href="/downloads/">Downloads</a>
+              <nuxt-link to="/kayda">Kayda</nuxt-link>
+            </li>
+            -->
+            <li>
+              <a href="https://docs.feirm.com" target="_blank">Documentation</a>
             </li>
           </ul>
         </div>
+        <!--
         <div class="column has-text-weight-light">
           <h1 class="title is-4 has-text-weight-light">Policies</h1>
           <ul>
@@ -38,14 +47,12 @@
             </li>
           </ul>
         </div>
+        -->
         <div class="column has-text-weight-light">
-          <h1 class="title is-4 has-text-weight-light">Follow Us</h1>
+          <h1 class="title is-4 has-text-weight-light">Join Us</h1>
           <ul>
             <li>
               <a href="https://twitter.com/_feirm">Twitter</a>
-            </li>
-            <li>
-              <a href="https://github.com/feirm">GitHub</a>
             </li>
             <li>
               <a href="https://discord.gg/mUZdSKg">Discord</a>
@@ -54,10 +61,13 @@
               <a href="https://t.me/Feirm">Telegram</a>
             </li>
             <li>
+              <a href="https://instagram.com/_feirm">Instagram</a>
+            </li>
+            <li>
               <a href="https://medium.com/feirm">Medium</a>
             </li>
             <li>
-              <a href="https://instagram.com/_feirm">Instagram</a>
+              <a href="https://github.com/feirm">GitHub</a>
             </li>
           </ul>
         </div>
