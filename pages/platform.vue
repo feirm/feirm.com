@@ -183,7 +183,7 @@
           <div class="columns is-centered is-vcentered">
             <div class="column is-5 has-text-weight-light">
               <h1 class="title is-2 has-text-weight-light">
-                Peer-to-peer marketplace
+                Peer-to-peer marketplace.
               </h1>
               <span class="tag is-dark">Coming Soon</span>
               <br>
