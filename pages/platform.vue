@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Landing hero -->
-    <div class="hero is-dark">
+    <div class="hero is-dark has-orange-border-bottom">
       <div class="hero-body">
         <div class="container has-text-weight-light">
           <div class="columns is-centered is-vcentered">
