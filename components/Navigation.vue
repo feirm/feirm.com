@@ -24,14 +24,9 @@
       <div class="navbar-menu" id="nav-menu">
         <div class="navbar-end">
           <nuxt-link to="/platform" class="navbar-item has-text-weight-light">Platform</nuxt-link>
-          <a
-            href="https://docs.feirm.com"
-            class="navbar-item has-text-weight-light"
-            >Documentation</a
-          >
-          <a href="/downloads/" class="navbar-item has-text-weight-light"
-            >Downloads</a
-          >
+          <nuxt-link to="/blockchain" class="navbar-item has-text-weight-light">Blockchain</nuxt-link>
+          <nuxt-link to="/downloads" class="navbar-item has-text-weight-light">Downloads</nuxt-link>
+          <a href="https://docs.feirm.com" target="_blank" class="navbar-item has-text-weight-light">Documentation</a>
         </div>
       </div>
     </div>
