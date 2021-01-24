@@ -25,6 +25,7 @@
         <div class="navbar-end">
           <nuxt-link to="/platform" class="navbar-item has-text-weight-light">Platform</nuxt-link>
           <nuxt-link to="/blockchain" class="navbar-item has-text-weight-light">Blockchain</nuxt-link>
+          <nuxt-link to="/kayda" class="navbar-item has-text-weight-light">Kayda</nuxt-link>
           <nuxt-link to="/downloads" class="navbar-item has-text-weight-light">Downloads</nuxt-link>
           <a href="https://docs.feirm.com" target="_blank" class="navbar-item has-text-weight-light">Documentation</a>
         </div>
