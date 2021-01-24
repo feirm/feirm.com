@@ -271,6 +271,7 @@
             The <span class="has-text-warning">XFE</span> cryptocurrency can be
             purchased through the following exchanges/methods.
           </p>
+          <br>
           <div class="columns is-centered">
             <div class="column is-3">
               <div class="box">
