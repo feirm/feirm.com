@@ -44,13 +44,12 @@
                     The Feirm blockchain is a peer-to-peer network where you can
                     earn and use the native XFE currency.
                   </h2>
-                  <a
-                    target="_blank"
-                    href="https://github.com/feirm/feirm"
+                  <nuxt-link
+                    to="/blockchain"
                     class="button is-warning has-text-weight-light"
                   >
                     Learn More
-                  </a>
+                  </nuxt-link>
                 </div>
               </div>
             </div>
