@@ -30,6 +30,12 @@
             <li>
               <a href="https://docs.feirm.com" target="_blank">Documentation</a>
             </li>
+            <li>
+              <nuxt-link to="/privacy-policy">Privacy Policy</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/code-of-conduct">Code of Conduct</nuxt-link>
+            </li>
           </ul>
         </div>
         <!--
